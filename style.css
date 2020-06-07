@@ -24,10 +24,15 @@ margin-right: 2rem;
 
     margin-top: 3.5rem;
     padding-top: 2.5rem;
+    margin-right:3rem;
+ 
 }
 
 .first-para{
     line-height: 1.5rem;
+     margin-right:1rem;
+    font-size:100px;
+
 }
 
 .feat-in{
@@ -55,21 +60,16 @@ margin-right: 2rem;
 #social-cards{
     background-color:  hsl(231, 69%, 60%);
     color: white;
+    
 }
 
 .check-in{
     
     margin-top: 2rem;
-    margin-left: 5rem;
-    margin-right: 5rem;
-    padding-left: 5rem;
-    padding-right: 5rem;
  
 }
 
 .col-book{
- margin-left: 3rem;
- padding-left: 3rem;
  margin-top: 2rem;
  line-height: 1.5rem;
  
@@ -157,6 +157,7 @@ details{
 
 details summary{
     outline: none;
+    background: whitesmoke;
 }
 
 #get-card{
